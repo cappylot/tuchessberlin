@@ -1,2 +1,2 @@
 # tuchessberlin
-This repository hosts and maintains the website for TUchess.
+This repository hosts and maintains the website for TUchess. TUchess is a free and open club for people at the Technical University extended to friends, neighbours, students, teachers or simply anyone. Our goal is to create and host safe, friendly and fun chess meet-ups and tournaments. 
