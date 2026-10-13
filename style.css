@@ -12,6 +12,12 @@ body {
     background-color: var(--background-color);
 }
 
+h1 {
+    font-family: "Google Sans", sans-serif;
+    text-align: center;
+    color: var(--primary-color);
+}
+
 .topnav {
     background-color: var(--secondary-color);
     overflow: hidden;
@@ -28,7 +34,7 @@ body {
 
 .topnav img.split {
     float: right;
-    margin: 10px;
+    margin: 8px;
 }
 
 .topnav a:hover {
