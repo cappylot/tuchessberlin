@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
+
+:root {
+    --primary-color: #C1121F;
+    --secondary-color: #780000;
+    --accent-color: #669BBC;
+    --background-color: #FDF0D5;
+    --text-color: #003049;
+}
+
+body {
+    background-color: var(--background-color);
+}
+
+.topnav {
+    background-color: var(--secondary-color);
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: var(--background-color);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav img.split {
+    float: right;
+    margin: 10px;
+}
+
+.topnav a:hover {
+    background-color: var(--primary-color);
+}
