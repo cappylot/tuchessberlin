@@ -18,6 +18,12 @@ h1 {
     color: var(--primary-color);
 }
 
+p {
+    font-family: "Google Sans", sans-serif;
+    text-align: center;
+    color: var(--text-color);
+}
+
 .topnav {
     background-color: var(--secondary-color);
     overflow: hidden;
