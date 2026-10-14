@@ -40,3 +40,7 @@ h1 {
 .topnav a:hover {
     background-color: var(--primary-color);
 }
+
+.topnav a.active {
+    background-color: var(--primary-color);
+}
